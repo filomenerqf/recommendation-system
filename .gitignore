@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+data/
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.csv
+*.h5
+*.hdf5
+
+# Models
+*.pt
+*.pth
+*.ckpt
+*.model
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
